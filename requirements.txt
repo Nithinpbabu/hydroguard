@@ -1,0 +1,6 @@
+io
+logging
+socketserver
+http
+picamera2
+threading
